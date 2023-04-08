@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273345470507",
+    "project_id": "misba-test-project",
+    "storage_bucket": "misba-test-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273345470507:android:dad0ab730e081fbea30a6e",
+        "android_client_info": {
+          "package_name": "com.example.misbatestproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273345470507-38tl597s3gjqdjc2igkvor30tr00l01t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNTn2HNIbvRQEL4y033QcCjdJ2KfR9gKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273345470507-38tl597s3gjqdjc2igkvor30tr00l01t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
